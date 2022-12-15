@@ -1,6 +1,6 @@
-# A Deno template on Gitpod
+# CO2.js x Deno demo
 
-This is a [Deno](https://deno.land/) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
+This demonstrates a baseline implementation of the [CO2.js](https://www.npmjs.com/package/@tgwf/co2) NPM package in [Deno](https://deno.land/).
 
 ## Next Steps
 
